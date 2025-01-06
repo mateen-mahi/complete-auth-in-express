@@ -42,8 +42,8 @@ This API provides a user authentication system with endpoints for login, registr
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/mateen-mahi/complete-auth-in-express
+cd express-project
 ```
 
 ### **2. Install Dependencies**
