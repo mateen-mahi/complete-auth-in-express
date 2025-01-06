@@ -1,6 +1,6 @@
 +# User Authentication API
 
-This API provides a user authentication system with endpoints for login, registration, password reset, and verification. Below is a guide on how to set up and use the API.
+This API provides a user authentication system with endpoints for login, registration, password reset, and Email verification. Below is a guide on how to set up and use the API.
 
 ---
 
@@ -146,4 +146,4 @@ If you have any questions or issues, feel free to contact the repository maintai
 
 ---
 
-**feel free to contact in case of any issue +923041418406 ** 
+**Contact +923041418406 ** 
